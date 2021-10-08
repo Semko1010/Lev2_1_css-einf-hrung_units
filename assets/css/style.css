@@ -1,0 +1,25 @@
+ul{
+padding-inline-start: 1.2em;
+}
+
+li{
+    font-size: 0.8;
+    line-height: 1.5rem;
+    list-style: none;
+}
+
+.dogs ::before{
+    content: "🐺";
+}
+.cats ::before{
+    content: "🐈‍⬛";
+}
+.parrots ::before{
+    content: "🦅";
+}
+.snakes ::before{
+    content: "🐍";
+}
+.lizzard ::before{
+    content: "🦎";
+}
