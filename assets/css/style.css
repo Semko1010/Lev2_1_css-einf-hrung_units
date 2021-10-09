@@ -23,3 +23,7 @@ li{
 .lizzard ::before{
     content: "🦎";
 }
+
+span{
+    font-size: 2em;
+}
